@@ -1,2 +1,2 @@
-# xmer
+# studyNotes
 myProject
